@@ -2,6 +2,10 @@
 
 return [
 
+    // CUSTOM 
+    'nodejs_api_url' => env('NODEJS_API_URL', 'anu pak'),
+    'nodejs_api_key' => env('NODEJS_API_KEY', 'anu pak'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Name
